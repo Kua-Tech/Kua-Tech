@@ -1,39 +1,35 @@
-# KUÁ – Universitários que transformam a universidade
+# KUÁ – Universitários que transformam o mercado
 
 ![KUÁ Logo](logo.png) 
 
 ## ✨ Sobre a KUÁ
 
-A **KUÁ** é uma iniciativa universitária que reúne estudantes de diversas áreas para criar **soluções tecnológicas voltadas aos desafios do próprio ambiente acadêmico**. Mais do que uma empresa de software, somos um **ecossistema colaborativo**, onde ideias se tornam projetos, e problemas reais são resolvidos por quem os vive diariamente.
+A **KUÁ** é uma iniciativa que reúne estudantes universitários de diversas áreas para criar **soluções tecnológicas inovadoras para o mercado**. Mais do que uma empresa de software, somos um **ecossistema colaborativo**, onde ideias se tornam projetos, e problemas reais são resolvidos com criatividade e excelência técnica.
 
 ## 💡 Missão
 
-Desenvolver tecnologia acessível, útil e criativa para melhorar a vida acadêmica, aproximando alunos, professores e instituições.
+Desenvolver tecnologia acessível, útil e criativa que impacte positivamente o mercado, enquanto formamos profissionais altamente capacitados ainda na universidade.
 
 ## 🧩 O que fazemos
 
-- Sistemas de apoio à gestão universitária  
-- Ferramentas de comunicação acadêmica  
-- Aplicativos para organização de eventos e turmas  
-- Plataformas de aprendizado e colaboração  
-- Soluções personalizadas para demandas internas das universidades  
+- Desenvolvimento de software personalizado
+- Aplicações web e mobile
+- Soluções em dados e visão computacional
+- Sistemas de automação e otimização
+- Consultoria em tecnologia
 
 ## 🧠 Por que a KUÁ?
 
-- Feita por universitários, para universitários  
-- Enraizada na vivência acadêmica real  
-- Colaboração multidisciplinar  
-- Abordagem ágil e inovadora  
+- Equipe multidisciplinar de talentos universitários
+- Visão inovadora e atualizada
+- Colaboração ágil e eficiente
+- Comprometimento com excelência técnica
 
-## 🌱 Junte-se a nós
 
-Você é estudante e quer fazer parte de algo que impacta sua própria comunidade?  
-Venha colaborar, aprender e transformar com a KUÁ.
-
-> **KUÁ** — Porque ninguém entende a universidade melhor do que quem vive nela.
+> **KUÁ** — Talentos universitários desenvolvendo o futuro.
 
 ---
 
-📫 Entre em contato: [email@kua.tech]  
-🌐 Site em breve: [www.kua.tech](http://www.kua.tech)
+📫 Entre em contato: [tech.kua@gmail.com]  
+🌐 Site em breve: [www.kua.tech](ufpi.br)
 
