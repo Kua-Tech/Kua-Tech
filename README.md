@@ -46,7 +46,8 @@ Nossos diferenciais nos tornam únicos no mercado:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-techkua%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:techkua@gmail.com)
-[![Website](https://img.shields.io/badge/Website-kuatech.com.br-purple?style=flat-square&logo=google-chrome)](http://www.kuatech.com.br])
+[![Website](https://img.shields.io/badge/Website-kuatech.com.br-purple?style=flat-square&logo=google-chrome)](https://www.kuatech.com.br)
+
 
 </div>
 
